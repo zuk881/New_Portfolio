@@ -99,12 +99,17 @@ a:hover {
 }
 
 .g-1 {
-    color: red;
+    color: papayawhip;
 }
 
-.c-1 {
+.p-1 {
     color: yellow;
 }
+
+.e-1 {
+    color:plum;
+}
+
 
 
 /*footer*/
