@@ -110,7 +110,14 @@ a:hover {
     color:plum;
 }
 
+.play {
+    margin: 10px;
+}
 
+
+.stop {
+    margin: 10px;
+}
 
 /*footer*/
 footer {
