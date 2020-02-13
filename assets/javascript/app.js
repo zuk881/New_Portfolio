@@ -33,6 +33,7 @@ $(document).ready(function () {
          }
     }
    
+    //owl play/pause buttons
     });
    $('.play').on('click',function(){
        owl.trigger('play.owl.autoplay',[1000])
